@@ -21,8 +21,8 @@
  
 <tr>
     <th bgcolor="BurlyWood">出生日期:</th>
- < td > 1999.09.25 </ td>
- <th bgcolor =“ BurlyWood”>政治面貌：</ th >
+    <td>1999.09.15</td>
+    <th bgcolor="BurlyWood">政治面貌:</th>
     <td>团员</td>
     <th bgcolor="BurlyWood">学历:</th>
     <td>本科</td>
@@ -34,14 +34,14 @@
     <th bgcolor="BurlyWood">毕业学校:</th>
     <td>湖南工商大学</td>
     <th bgcolor="BurlyWood">邮编:</th>
-    <td>415523</td>
+    <td>422300</td>
 </tr>
  
 <tr>
      <th bgcolor="BurlyWood">爱好:</th>
      <td>游戏</td>
      <th bgcolor="BurlyWood">籍贯:</th>
-     <td>湖南</td>
+     <td>湘</td>
      <th bgcolor="BurlyWood">邮箱:</th>
      <td colspan="2"<p><a  href="mailto:1351312961@qq.com?subject=Hello%20again">2049235397@qq.com </a></p></td>
 </tr>
@@ -49,7 +49,7 @@
 <tr>
      <th height="160" bgcolor="BurlyWood">个人特长:</th>
      <td colspan="6">
-   <p>无</p>
+   <p></p>
    <p></p>
    <p></p>
     </td>
