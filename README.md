@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8" />
-  <  link   rel = “快捷方式图标”   href = “  http：// 95299950.github.io/index.html ”  />
   <meta http-equiv =“ X-UA-Compatible” content =“ IE = edge，chrome = 1”>
   <title>codytang 个人简历</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
