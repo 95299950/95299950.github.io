@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="shortcut icon" href="http://cody1991.github.io/favicon.ico" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <  link   rel = “快捷方式图标”   href = “  http：// 95299950.github.io/index.html ”  />
+  <meta http-equiv =“ X-UA-Compatible” content =“ IE = edge，chrome = 1”>
   <title>codytang 个人简历</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
@@ -15,24 +15,9 @@
 <body>
   <div class="wrapper" id="wrapper">
     <header>
-      <div class="banner row" id="banner">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadd slides-container" style="height:100%">
-          <div class="slide">
-            <img src="images/header-image/header-bg1.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg2.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg3.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg4.jpg" width="1024" height="682">
-          </div>
-        </div>
-        <div class="bannerText container">
-          <h1>我叫codytang(唐泽雄)</h1>
-          <p>Web前端开发工程师，毕业于中山大学，2017.03.07~至今在腾讯IEG游戏平台部工作。</p>
+        <div class="bext container">
+          <h1>我叫付立鑫</h1>
+          <p>现就读于湖南工商大学北津学院，专业是信息与计算科学，是一名大四的学生。</p>
           <a href="#aboutme" class="mbnt">关于我</a>
         </div>
       </div>
@@ -88,7 +73,7 @@
             </div>
             <div id="description">
               <p>
-                我是来自深圳的前端开发工程师，2014年的中山大学软件工程本科毕业生，2014年4月份开始第一份前端开发工作，至今已经有两年多前端开发经验。
+               我来自湖南邵阳，熟悉JAVA语言编码，2020年9月参加了JAVA语言培训，至今已经有两年多JAVA开发经验。
               </p>
               <p>
                 有着坚实的前端开发基础，并且一直保持对新技术的学习热情。熟练使用HTML5、CSS3以及JavaScript(jQuery,Zepto)；对流行的前端开发框架，比如Bootstrap3和Foundation5都有实际开发项目；能熟练使用前端开发工具，比如Gulp.js、Seajs、WebPack和Less等等；学习了AngularJS和React，但更加喜欢轻巧、高性能、可组件化的MVVM框架Vue.js，并在实际的开发项目中使用；学习了Node.js(Express)、ECMAScript6，MongoDB等技术，希望在往后的开发项目中得到实践提升。这里是 <a href="https://github.com/cody1991/learn">自己的前端开发记录</a> 。后面也有新的前端开发实习生加入团队，锻炼了一定的管理能力。
