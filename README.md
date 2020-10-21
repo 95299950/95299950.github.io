@@ -14,7 +14,22 @@
 <body>
   <div class="wrapper" id="wrapper">
     <header>
-        <div class="bext container">
+      <div class="banner row" id="banner">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadd slides-container" style="height:100%">
+          <div class="slide">
+            <img src="images/header-image/header-bg1.jpg" width="1024" height="682">
+          </div>
+          <div class="slide">
+            <img src="images/header-image/header-bg2.jpg" width="1024" height="682">
+          </div>
+          <div class="slide">
+            <img src="images/header-image/header-bg3.jpg" width="1024" height="682">
+          </div>
+          <div class="slide">
+            <img src="images/header-image/header-bg4.jpg" width="1024" height="682">
+          </div>
+        </div>
+        <div class="bannerText container">
           <h1>我叫付立鑫</h1>
           <p>现就读于湖南工商大学北津学院，专业是信息与计算科学，是一名大四的学生。</p>
           <a href="#aboutme" class="mbnt">关于我</a>
@@ -381,25 +396,9 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
             <div class="refBoxcon">
-              <p>
-                负责公司随遇直播APP产品内的H5页面，负责公司随遇APP产品H5端的迷你版本，负责公司运营活动页面，比如 <a href="http://a.impingo.me/static/nice/nice14/index.html">主播生活日记系列</a> 、 <a href="http://wx.impingo.me/static/iceChallenge/index.html?source_iceChallenge">七夕湿身游戏</a>、 <a href="http://a.impingo.me/static/activity/singer/preselection.html">我是直播歌手投票页面</a>、 以及PV过百万的 元气校花H5活动 等等。主要日常使用的技术、库和框架有：Vue.js、vue-resource、vue-router、FastClick、Swiper、Animate.css、jQuery.lazyload和Lightbox等等。
-              </p>
-              <h3>
-                            <a href="http://a.impingo.me/activity/showRecommendH5?isFamous=1&openId=o4s3LjjIznRpPupFFoXwem4RD9Hs">元气校花示例页面1</a>
-                            <a href="http://a.impingo.me/activity/showRecommend32?isFamous=1&openId=o4s3LjjIznRpPupFFoXwem4RD9Hs#107">示例2</a>
-                            </h3>
+           
             </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                使用WebGL(three.js框架)编写的3D网页项目。
-              </p>
-              <h3>
-                            <a href="https://github.com/cody1991/webgltang">WebGL项目</a>
-                            </h3>
-            </div>
-          </div>
+        
         </div>
       </div>
     </section>
@@ -440,21 +439,7 @@
     $(document).ready(function() {
       //enabling stickUp on the '.navbar-wrapper' class
 
-      $('.navbar-wrapper').stickUp({
-        parts: {
-          0: 'wrapper',
-          1: 'aboutme',
-          2: 'technical',
-          3: 'exprience',
-          4: 'reffernces',
-          5: 'contact'
-        },
-        itemClass: 'menuItem',
-        itemHover: 'active',
-        topMargin: 'auto'
-      });
-    });
-  });
+
 
   </script>
   <script src="./js/jquery.superslides.js"></script>
