@@ -2,7 +2,7 @@
 
 <html>
 
-<body background=http://pic5.photophoto.cn/20071214/0033033955287991_b.jpg>
+<body background=http://xqproduct.xiangqu.com/FsINqjPTpwGt5F043nsvEpS6Hs80?imageView2/2/w/800/q/90/format/jpg/800x1198/>
 
 <table border="1" align="center" cellpadding="10" width="800">
     <tr>
@@ -16,7 +16,7 @@
         <td>21</td>
         <th bgcolor="BurlyWood">民族:</th>
         <td>汉</td>
-        <td rowspan="3" width="50"<p><a href=""><img border="0" src="C:/Users/86181/Desktop/kk.jpg" />
+        <td rowspan="3" width="50"<p><a href=""><img border="0" src="kk.jpg" />
     </a></p></td>
     </tr>
 
